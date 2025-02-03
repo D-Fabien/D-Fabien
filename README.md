@@ -18,4 +18,5 @@
   <p align="center">
     <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
     <img src="https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white" />
+    <img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge" />
   </p>
