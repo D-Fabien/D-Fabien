@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   </p>
   <p align="center">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
     <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
