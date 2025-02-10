@@ -1,6 +1,6 @@
 ## 👋 Bienvenue sur mon profil GitHub
 
-<img src="https://i.pinimg.com/originals/c0/a0/9c/c0a09c56bd24c4d1e7bb91d6b6a375fd.gif" width="1000">
+<img src="https://i.pinimg.com/originals/c0/a0/9c/c0a09c56bd24c4d1e7bb91d6b6a375fd.gif" width="720">
 
 ## Front
   <p align="center">
